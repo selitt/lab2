@@ -76,8 +76,8 @@
 
 Нужно вставить код прямо в отчет в блок:
 
-```markdown
-    ```java
+
+```java
          Java
 import java.io.PrintStream;
 import java.util.Scanner;
@@ -298,8 +298,8 @@ public class Main {
     }
 }
 
-    ``` 
-```
+``` 
+
 
 
 ### 6. Анализ правильности решения
