@@ -339,19 +339,19 @@ public class Main {
     3
     hello world
     java is great
-    open ai
+    good day
     ```
 
 - Output:
     ```
     hello world
-    open ai
+    good day
     java is great
     Частые буквы:
     a 
     Палиндромы:
     нет
-    соединенная строка:     hello world,    open ai,    java is great
+    соединенная строка:     hello world,    good day,    java is great
     количество слов в строке: 7
     ```
 3. Цель теста: Проверить, что программа правильно находит палиндромы среди строк и правильно выводит их количество.
